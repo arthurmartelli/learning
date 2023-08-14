@@ -1,0 +1,13 @@
+[package]
+name = "program"
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur <arthur.martellig@gmail.com>"]
+license = "MIT"
+description = "Test program for creating installer"
+repository = "https://github.com/ArthurMartelli/email_sender"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

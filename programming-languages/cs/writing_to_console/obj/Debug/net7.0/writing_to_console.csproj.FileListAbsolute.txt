@@ -1,0 +1,15 @@
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\bin\Debug\net7.0\writing_to_console.exe
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\bin\Debug\net7.0\writing_to_console.deps.json
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\bin\Debug\net7.0\writing_to_console.runtimeconfig.json
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\bin\Debug\net7.0\writing_to_console.dll
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\bin\Debug\net7.0\writing_to_console.pdb
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.csproj.AssemblyReference.cache
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.AssemblyInfoInputs.cache
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.AssemblyInfo.cs
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.csproj.CoreCompileInputs.cache
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.dll
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\refint\writing_to_console.dll
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.pdb
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\writing_to_console.genruntimeconfig.cache
+C:\Users\arthu\src\programming-languages\cs\writing_to_console\obj\Debug\net7.0\ref\writing_to_console.dll

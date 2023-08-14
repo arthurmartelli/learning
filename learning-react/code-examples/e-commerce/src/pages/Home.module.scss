@@ -1,0 +1,12 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-large;
+
+  img {
+    width: 1rem;
+    height: 1rem;
+    padding-right: 0.5rem; // move apart from letters
+  }
+}

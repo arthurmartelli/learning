@@ -1,0 +1,15 @@
+C:\Users\arthu\src\programming-languages\cs\giraffe\bin\Debug\net7.0\giraffe.exe
+C:\Users\arthu\src\programming-languages\cs\giraffe\bin\Debug\net7.0\giraffe.deps.json
+C:\Users\arthu\src\programming-languages\cs\giraffe\bin\Debug\net7.0\giraffe.runtimeconfig.json
+C:\Users\arthu\src\programming-languages\cs\giraffe\bin\Debug\net7.0\giraffe.dll
+C:\Users\arthu\src\programming-languages\cs\giraffe\bin\Debug\net7.0\giraffe.pdb
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.csproj.AssemblyReference.cache
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.AssemblyInfoInputs.cache
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.AssemblyInfo.cs
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.csproj.CoreCompileInputs.cache
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.dll
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\refint\giraffe.dll
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.pdb
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\giraffe.genruntimeconfig.cache
+C:\Users\arthu\src\programming-languages\cs\giraffe\obj\Debug\net7.0\ref\giraffe.dll

@@ -1,0 +1,8 @@
+.main {
+  padding: 6rem;
+  min-height: 100vh;
+
+  display: grid;
+  justify-content: center;
+  align-content: start;
+}

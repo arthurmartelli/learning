@@ -1,0 +1,42 @@
+.fullWidthFlex {
+  // allows 100% horizontal coverage inside a flexbox
+  // and centers content
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+nav {
+  background-color: #f1f1f1;
+  border-bottom: 0.15rem solid black;
+  display: flex;
+  justify-content: space-evenly;
+
+  a {
+    @extend .fullWidthFlex;
+    padding: 1rem;
+    color: #333;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: #ddd;
+  }
+
+  .menu {
+    @extend .fullWidthFlex;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .dropdown {
+    @extend .fullWidthFlex;
+    flex-direction: column;
+
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f1f1f1;
+  }
+}

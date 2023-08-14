@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "autograd",
+    "callables",
+    "cmap",
+    "DATALOADERS",
+    "getitem",
+    "grayscale",
+    "minibatches",
+    "MNIST",
+    "ndarray",
+    "ndarrays",
+    "overfitting",
+    "torchvision"
+  ],
+  "python.analysis.typeCheckingMode": "basic"
+}
